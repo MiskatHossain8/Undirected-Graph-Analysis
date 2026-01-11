@@ -70,7 +70,8 @@ The repository contains the following files:
 
 Course: CSE106 – Discrete Mathematics
 
-Instructor: Prof Dr. Md. Mozammel Huq Azad Khan
+Instructor:
+            Prof Dr. Md. Mozammel Huq Azad Khan
 
             Professor
             
@@ -81,11 +82,7 @@ Instructor: Prof Dr. Md. Mozammel Huq Azad Khan
 ---
 
 ## 📬 Contact
-🌐 Website: https://sites.google.com/view/MiskatHossain8
-
-📘 Facebook: https://www.facebook.com/MiskatHossain8/
-
-💼 LinkedIn: https://www.linkedin.com/in/miskathossain8/
-
-
 # For any questions, feedback, or collaboration:
+- 🌐 Website: https://sites.google.com/view/MiskatHossain8
+- 📘 Facebook: https://www.facebook.com/MiskatHossain8/
+- 💼 LinkedIn: https://www.linkedin.com/in/miskathossain8/
