@@ -68,17 +68,24 @@ The repository contains the following files:
 
 ## 👨‍🏫 Course Information
 
-- Course: CSE106 – Discrete Mathematics
-- Instructor: Prof Dr. Md. Mozammel Huq Azad Khan
--             Professor
--             Department of Computer Science and Engineering
--             East West University
+Course: CSE106 – Discrete Mathematics
+
+Instructor: Prof Dr. Md. Mozammel Huq Azad Khan
+
+            Professor
+            
+            Department of Computer Science and Engineering
+            
+            East West University
 
 ---
 
 ## 📬 Contact
+🌐 Website: https://sites.google.com/view/MiskatHossain8
+
+📘 Facebook: https://www.facebook.com/MiskatHossain8/
+
+💼 LinkedIn: https://www.linkedin.com/in/miskathossain8/
+
 
 # For any questions, feedback, or collaboration:
-- 🌐 Website: https://sites.google.com/view/MiskatHossain8
-- 📘 Facebook: https://www.facebook.com/MiskatHossain8/
-- 💼 LinkedIn: https://www.linkedin.com/in/miskathossain8/
