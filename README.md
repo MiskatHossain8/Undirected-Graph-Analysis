@@ -71,6 +71,7 @@ The repository contains the following files:
 Course: CSE106 – Discrete Mathematics
 
 Instructor:
+
             Prof Dr. Md. Mozammel Huq Azad Khan
 
             Professor
